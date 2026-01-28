@@ -1,0 +1,1 @@
+2026-01-28 22:24:24 | ERROR    | modules.builder.code_generation_agent:252 | Failed to extract agent_config_code from LLM response: 'agent_config_code'
